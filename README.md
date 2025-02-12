@@ -1,6 +1,6 @@
 <p>
     <a href="https://flowbite.com" >
-      <img alt="Flowbite Illustrations - Free and open-source SVG illustrations" width="350" src="https://flowbite.s3.amazonaws.com/github/flowbite-illustrations-logo-github.png">
+      <img alt="Flowbite Illustrations - Free and open-source SVG illustrations" width="350" src="https://flowbite.s3.amazonaws.com/github/flowbite-illustration-logo-github.png">
     </a><br>
     Free and open-source collection of over 54+ SVG illustrations built for Tailwind CSS and Figma
 </p>
