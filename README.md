@@ -28,7 +28,7 @@ The default examples are provided with raw SVG code source which is a flexible a
 
 If you want to use Flowbite Illustrations inside your Figma project you can duplicate the following file from the community:
 
-🎨 [Flowbite Illustrations in Figma](https://www.figma.com/community/file/1253280241668899805/Flowbite-Icons)
+🎨 [Flowbite Illustrations in Figma](https://www.figma.com/community/file/1471861797767044313/flowbite-illustrations-50-svg-illustrations-in-figma)
 
 ## Flowbite Icons
 
